@@ -1,5 +1,18 @@
 # Decentralized Freelance Marketplace (DFM) - Frontend
 
+## Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Environment Configuration](#environment-configuration)
+- [Running the Application](#running-the-application)
+- [Project Structure](#project-structure)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
+
 This is the React.js frontend for the Decentralized Freelance Marketplace (DFM). It provides a modern, responsive user interface built with React and Tailwind CSS for interacting with the blockchain-based freelance platform. The DApp allows users to connect their MetaMask wallets, post jobs, stake tokens, place bids, and manage escrow payments seamlessly.
 
 ## Features

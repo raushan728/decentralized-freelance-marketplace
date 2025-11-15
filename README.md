@@ -1,5 +1,22 @@
 # Decentralized Freelance Marketplace (DFM)
 
+## Table of Contents
+
+- [Goal](#goal)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Tech Stack](#tech-stack)
+- [Architecture Overview](#architecture-overview)
+- [Project Structure](#project-structure)
+- [Development Roadmap (Completed Milestones)](#development-roadmap-completed-milestones)
+- [Optional Advanced Features](#optional-advanced-features)
+- [Learning Focus](#learning-focus)
+- [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
+- [Future Enhancements](#future-enhancements)
+- [Guidance Expectations](#guidance-expectations)
+- [Getting Started (Local Setup)](#getting-started-local-setup)
+- [How It Works](#how-it-works)
+
 ## Goal
 Build a real-world advanced blockchain project that teaches everything from setting up Ganache and MetaMask to writing, testing, and deploying smart contracts with full frontend integration. The project is a decentralized version of Upwork or Fiverr, where clients and freelancers interact directly on the blockchain. Payments are handled by escrow smart contracts, reputation scores are tracked on-chain, and disputes are resolved using DAO-based governance. The system eliminates intermediaries and ensures transparent, secure, and automated transactions.
 
