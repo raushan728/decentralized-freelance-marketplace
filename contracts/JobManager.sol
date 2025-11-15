@@ -66,8 +66,7 @@ contract JobManager is Ownable {
         require(isStaked[msg.sender], "User has not staked");
         
         uint256 amount = stakes[msg.sender];
-        
-        // Reset staking status first to prevent re-entrancy attacks
+    
         stakes[msg.sender] = 0;
         isStaked[msg.sender] = false;
 
